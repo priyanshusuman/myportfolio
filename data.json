@@ -8,13 +8,13 @@
         },
         {
             "title": "C++",
-            "rating": "97"
+            "rating": "60"
         },
         {
-            "title": "java",
+            "title": "Html",
             "rating": "85"
         },{
-            "title": "Python",
+            "title": "javaScript",
             "rating": "80"
         },{
             "title": "volleyball",
@@ -26,7 +26,7 @@
     ],
     "contact": {
         "location": "Lovely professional university",
-        "phone": "7043712547",
+        "phone": "6284904970",
         "email": "atulatul6666@gmail.com"
     }
 }
